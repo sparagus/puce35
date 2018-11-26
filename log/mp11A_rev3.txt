@@ -1,0 +1,6 @@
+Evaluated using PUCE Version: 0.1.1
+Evaluation Parameters
+File	Header lines	Other delimiter checked	Other delimiter value	Values surrounded checked	Values surrounded value	Measurement type	Resistance output	V1	I1	V2	I2
+mp11A_rev3	1	No	,	No	""	Single I/V	None	2	3	0	0
+Results
+File	Cell area	Scan direction	Measurement stage	Voc [V]	Jsc [mA]	FF [%]	Efficiency [%]	Series Resistance [Ohm]	Shunt Resistance [kOhm]
